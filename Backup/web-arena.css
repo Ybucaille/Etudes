@@ -1,0 +1,30 @@
+ul {
+  list-style-type: none;
+  margin-left : -8px;
+  margin-right : -8px;
+  margin-top : -8px;
+  padding-right: 400px;
+  padding-top: 5px;
+  padding-bottom: 5px ;
+  overflow: hidden;
+  background: linear-gradient(to right, #2C4089, #54A6D1);
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: Comic Sans MS;
+}
+
+.barre-bleu {
+  height: 5px;
+}
